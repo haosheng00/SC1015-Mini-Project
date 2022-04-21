@@ -2,7 +2,7 @@
 SC1015 Introduction to Data Science and Artificial Intelligence Mini-Project
 
 ## About
-Acknowledging the severity of heart diseases and the benefits of its early detection, we aims to predict the possibility of individuals in contracting heart disease with the use of a [dataset retrieved from the IEEE] (https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files). With a machine learning model, the 'Robo-medivisor' will analyse this possibility with predictors from medical check-ups and alert the potential patients and doctors respectively for more in-depth checks.
+Acknowledging the severity of heart diseases and the benefits of its early detection, we aims to predict the possibility of individuals in contracting heart disease with the use of a [dataset retrieved from the IEEE](https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files). With a machine learning model, the 'Robo-medivisor' will analyse this possibility with predictors from medical check-ups and alert the potential patients and doctors respectively for more in-depth checks.
 
 ## Contributors
 - Koh Hao Sheng - Data Preparation, EDA, Decision Tree Model and Random Forest Model
@@ -23,4 +23,9 @@ Acknowledging the severity of heart diseases and the benefits of its early detec
 ## Learning Points
 
 ## References
+- https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files
+- https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)#:~:text=Cardiovascular%20diseases%20(CVDs)%20are%20the,%2D%20and%20middle%2Dincome%20countries
+- https://www.myheart.org.sg/health/heart-disease-statistics/#:~:text=Singapore%20Statistics,to%20heart%20diseases%20or%20stroke.
+- 
+
 
