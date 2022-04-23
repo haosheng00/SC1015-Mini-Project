@@ -43,4 +43,5 @@ To decide on the most suitable model for our dataset, we generated three models,
 - https://scholar.smu.edu/cgi/viewcontent.cgi?article=1041&context=datasciencereview.
 - https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=Random%20forest%20is%20a%20Supervised,average%20in%20case%20of%20regression.
 
-## Special Thanks to our Teaching Assistant Dr Sun Chenyu for your guidance all along and Professor Sourav Sen Gupta and Professor Bo An for teaching of the relevant knowledge.
+
+## *Special Thanks to our Teaching Assistant Dr Sun Chenyu for your guidance all along and Professor Sourav Sen Gupta and Professor Bo An for teaching of the relevant knowledge.*
