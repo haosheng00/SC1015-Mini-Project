@@ -2,12 +2,12 @@
 SC1015 Introduction to Data Science and Artificial Intelligence Mini-Project
 
 ## About
-Acknowledging the severity of heart disease and the benefits of its early detection, our group aims to predict the possibility of individuals contracting heart disease with the use of a [dataset retrieved from IEEE](https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files). With the best machine learning model selected, our 'Robo-Medivisor' will analyse this possibility with predictor variables from the patients' medical check-ups and alert them and doctors respectively for more in-depth checks.
+Acknowledging the severity of heart disease and the benefits of its early detection, our group aims to predict the possibility of individuals contracting heart disease with the use of a [dataset retrieved from IEEE](https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files). With the best machine learning model selected, our 'Robo-Medivisor' will analyse this possibility with predictor variables taken from the patients' medical check-ups and recommend them for more comprehensive check-ups. It will also alert and send doctors the patients' health report if required.
 
 ## Contributors
-- Koh Hao Sheng ([@haosheng00](https://github.com/haosheng00)) - Data Preparation, EDA, Machine Learning Models (Decision Tree and Random Forest), Solution and Slides
-- Lee An Ni ([@3Clovers](https://github.com/3Clovers)) - Data Preparation, EDA, Machine Learning Models (Logistic Regression), Solution, Slides and GitHub README
-- Sim Guanyu ([@cooliomoolio1108](https://github.com/cooliomoolio1108)) - Motivation, Data Visualization, Evaluation, Solution and Slides
+- Koh Hao Sheng ([@haosheng00](https://github.com/haosheng00)) - Data Preparation, Exploratory Data Analysis (EDA), Machine Learning Models (Decision Tree and Random Forest), Solution, Slides
+- Lee An Ni ([@3Clovers](https://github.com/3Clovers)) - Data Preparation, Exploratory Data Analysis (EDA), Machine Learning Models (Logistic Regression), Solution, Slides, GitHub README
+- Sim Guanyu ([@cooliomoolio1108](https://github.com/cooliomoolio1108)) - Motivation, Data Visualization, Evaluation, Solution, Slides
 
 ## Table of Contents
 1. [Motivation and Problem Statement](https://github.com/haosheng00/SC1015-Mini-Project/edit/main/README.md#motivation-and-problem-statement)
@@ -20,7 +20,7 @@ Acknowledging the severity of heart disease and the benefits of its early detect
 8. [References](https://github.com/haosheng00/SC1015-Mini-Project/edit/main/README.md#references)
 
 ## Motivation and Problem Statement
-As the leading cause of death, accounting for 32% of all deaths in the world, we are motivated to reduce the implications of **heart disease** with early detection which allows for the best chance for successful treatment and survival.
+Heart disease is the leading cause of death, accounting for 32% of all deaths in the world. Given the severity of the situation, our group wants to reduce the implications of **heart disease** with early detection and intervention which allows for the best chance for successful treatment and survival.
 - How can we assist doctors to speed up the diagnosis of heart disease to minimise further implications? 
 - Which model is the best in predicting heart disease to aid in our goal of early detection?
 
