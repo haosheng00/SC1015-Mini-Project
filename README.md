@@ -46,7 +46,7 @@ Acknowledging the severity of heart disease and the benefits of its early detect
 - Logistic Regression was done twice in order to make a comparison between extracted dataframe and a dataframe with all predictor variables with back elimination
 
 ## Conclusion
-- Random Forest with adjusted hyper-parameters returns the highest accuracy (93%) among the 3 models used, hence it is the best model
+- Random Forest with adjusted hyper-parameters returns the highest accuracy (93% for test set) among the 3 models used, hence it is the best model
 - Extracted dataframe from data-driven insights is a better model fit (higher R-squared value) compared to dataframe with all predictor variables for Logistic Regression
 - Identified signficant predictor variables using p-value from Logistic Regression
 - Correlation between predictor variables can be low among each other but can be significant to the presence of heart disease
