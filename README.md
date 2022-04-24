@@ -10,17 +10,17 @@ Acknowledging the severity of heart disease and the benefits of its early detect
 - Sim Guanyu ([@cooliomoolio1108](https://github.com/cooliomoolio1108)) - Motivation, Data Visualization, Evaluation, Solution, Slides
 
 ## Table of Contents
-1. [Motivation and Problem Statement](https://github.com/haosheng00/SC1015-Mini-Project/edit/main/README.md#motivation-and-problem-statement)
-2. [Models Used](https://github.com/haosheng00/SC1015-Mini-Project/edit/main/README.md#models-used)
-3. [Data Preparation](https://github.com/haosheng00/SC1015-Mini-Project/edit/main/README.md#data-preparation)
-4. [Exploratory Data Analysis (EDA)](https://github.com/haosheng00/SC1015-Mini-Project/edit/main/README.md#exploratory-data-analysis-eda)
-5. [Machine Learning Models](https://github.com/haosheng00/SC1015-Mini-Project/edit/main/README.md#machine-learning-models)
-6. [Reflection](https://github.com/haosheng00/SC1015-Mini-Project/edit/main/README.md#reflection)
-7. [Learning Points](https://github.com/haosheng00/SC1015-Mini-Project/edit/main/README.md#learning-points)
-8. [References](https://github.com/haosheng00/SC1015-Mini-Project/edit/main/README.md#references)
+1. [Motivation and Problem Statement](https://github.com/haosheng00/SC1015-Mini-Project#motivation-and-problem-statement)
+2. [Models Used](https://github.com/haosheng00/SC1015-Mini-Project#models-used)
+3. [Data Preparation](https://github.com/haosheng00/SC1015-Mini-Project#data-preparation)
+4. [Exploratory Data Analysis (EDA)](https://github.com/haosheng00/SC1015-Mini-Project#exploratory-data-analysis-eda)
+5. [Machine Learning Models](https://github.com/haosheng00/SC1015-Mini-Project#machine-learning-models)
+6. [Reflection](https://github.com/haosheng00/SC1015-Mini-Project#reflection)
+7. [Learning Points](https://github.com/haosheng00/SC1015-Mini-Project#learning-points)
+8. [References](https://github.com/haosheng00/SC1015-Mini-Project#references)
 
 ## Motivation and Problem Statement
-**Heart disease** is the leading cause of death, accounting for 32% of all deaths in the world. Given the severity of the situation, our group wants to reduce the implications of heart disease with early detection and intervention which allows for the best chance for successful treatment and survival.
+**_Heart disease_** is the leading cause of death, accounting for 32% of all deaths in the world. Given the severity of the situation, our group wants to reduce the implications of heart disease with early detection and intervention which allows for the best chance for successful treatment and survival.
 - How can we assist doctors to speed up the diagnosis of heart disease to minimise further implications? 
 - Which model is the best in predicting heart disease to aid in our goal of early detection?
 
