@@ -30,7 +30,7 @@ Acknowledging the severity of heart disease and the benefits of its early detect
 - Logistic Regression
 
 ## Data Preparation
-- Imported the dataset, Separated numeric and categorical variables in different data frames
+- Imported the dataset, separated numeric and categorical variables in different data frames
 - Renamed a variable for easier visualisation in EDA
 - Removed anomalies for higher precision and accuracy
 - Ensured dataset is balanced
