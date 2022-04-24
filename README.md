@@ -45,7 +45,7 @@ To decide on the most suitable model for our dataset, we generated three models,
 
 ## Learning Points
 - GitHub Collaboration
-- Learnt new Machine Learning Models (Random Forest, Logistic Regression)
+- New Machine Learning Models (Random Forest, Logistic Regression)
 - Soft Skills such as Design Thinking to utilise models efficiently and effectively
 
 ## References
