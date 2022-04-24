@@ -1,4 +1,4 @@
-# '_Robo-Medivisor_' Heart Disease Prediction
+# _'Robo-Medivisor'_ Heart Disease Prediction
 SC1015 Introduction to Data Science and Artificial Intelligence Mini-Project
 
 ## About
