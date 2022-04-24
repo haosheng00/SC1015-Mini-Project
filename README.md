@@ -64,4 +64,4 @@ Acknowledging the severity of heart disease and the benefits of its early detect
 - https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=Random%20forest%20is%20a%20Supervised,average%20in%20case%20of%20regression
 
 
-## *Special Thanks to our Teaching Assistant Sun Chenyu for your guidance throughout the project and Course Instructors Associate Professor Bo An and Dr Sourav Sen Gupta for teaching the relevant content.*
+### *Special Thanks to our Teaching Assistant Sun Chenyu for your guidance throughout the project and Course Instructors Associate Professor Bo An and Dr Sourav Sen Gupta for teaching the relevant content.*
