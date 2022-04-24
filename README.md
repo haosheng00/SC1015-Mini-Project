@@ -20,7 +20,7 @@ Acknowledging the severity of heart disease and the benefits of its early detect
 8. [References](https://github.com/haosheng00/SC1015-Mini-Project/edit/main/README.md#references)
 
 ## Motivation and Problem Statement
-Heart disease is the leading cause of death, accounting for 32% of all deaths in the world. Given the severity of the situation, our group wants to reduce the implications of **heart disease** with early detection and intervention which allows for the best chance for successful treatment and survival.
+**Heart disease** is the leading cause of death, accounting for 32% of all deaths in the world. Given the severity of the situation, our group wants to reduce the implications of heart disease with early detection and intervention which allows for the best chance for successful treatment and survival.
 - How can we assist doctors to speed up the diagnosis of heart disease to minimise further implications? 
 - Which model is the best in predicting heart disease to aid in our goal of early detection?
 
@@ -41,10 +41,9 @@ To decide on the most suitable model for our dataset, we generated three models,
 ## Reflection
 
 ## Learning Points
-- Collaboration on GitHub
-- Design Thinking to utilise model efficiently and effectively
-- Random Forest Model
-- Logistic Regression Model
+- GitHub Collaboration
+- Learnt new Machine Learning Models (Random Forest, Logistic Regression)
+- Soft Skills such as Design Thinking to utilise models efficiently and effectively
 
 ## References
 - https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files.
