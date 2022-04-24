@@ -15,7 +15,7 @@ Acknowledging the severity of heart disease and the benefits of its early detect
 3. [Data Preparation](https://github.com/haosheng00/SC1015-Mini-Project#data-preparation)
 4. [Exploratory Data Analysis (EDA)](https://github.com/haosheng00/SC1015-Mini-Project#exploratory-data-analysis-eda)
 5. [Machine Learning Models](https://github.com/haosheng00/SC1015-Mini-Project#machine-learning-models)
-6. [Reflection](https://github.com/haosheng00/SC1015-Mini-Project#reflection)
+6. [Conclusion](https://github.com/haosheng00/SC1015-Mini-Project#conclusion)
 7. [Learning Points](https://github.com/haosheng00/SC1015-Mini-Project#learning-points)
 8. [References](https://github.com/haosheng00/SC1015-Mini-Project#references)
 
@@ -31,17 +31,24 @@ Acknowledging the severity of heart disease and the benefits of its early detect
 
 ## Data Preparation
 - Imported the dataset
-- Separated the numeric and categorical variables in different data frames
-- Renamed a variable, 'sex', for easier visualisation in EDA
-- Checked for balance, after anomalies are then removed for higher precion and accuracy
+- Separated numeric and categorical variables in different data frames
+- Renamed a variable for easier visualisation in EDA
+- Removed anomalies for higher precision and accuracy
+- Ensured dataset is balanced
 
 ## Exploratory Data Analysis (EDA)
-In the EDA, we gathered insights from the single and multi-variate analysis of the numeric variables, with the use of box plot, scatter plot, strip plot, histogram and correlation matrix. Whereas heatmaps are used for categorical variables. With these data-driven insights, we extracted the response variables to be used for our machine learning models.
+- Analysed single and multi-variate statistics of numeric variables through the use of box plots, scatter plots, strip plots, histograms, pairplot, correlation table and heatmap
+- Heatmaps used for categorical variables
+- Extracted the relevant predictor variables from data-driven insights
 
 ## Machine Learning Models
-To decide on the most suitable model for our dataset, we generated three models, namely decision tree, random forest and logistic regression. For random forest, we included an increment to the depth and estimators in a successful attempt to raise the classifiction accuracy of the model. Whereas for logistic regression, a comparison was made between the extracted dataframe and a cleaned full dataset with back elimination to evaluate the fit of the models. The extracted dataframe seems to be a better fit, with also higher accuracy. However, from the three models, Random Forest provides the highest accuracy and hence our ultimate model.
+- 3 models used, namely Decision Tree, Random Forest and Logistic Regression
+- Adjusted 2 major hyper-parameters for Random Forest, depth and estimators, to raise the classifiction accuracy of the model
+- A comparison was made between the extracted dataframe and a cleaned full dataset with back elimination to evaluate the fit of the models. The extracted dataframe seems to be a better fit, with also higher accuracy.
 
-## Reflection
+## Conclusion
+- Random Forest returns the highest accuracy among the 3 models used 
+- 
 
 ## Learning Points
 - GitHub Collaboration
