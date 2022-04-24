@@ -30,7 +30,10 @@ Acknowledging the severity of heart disease and the benefits of its early detect
 - Logistic Regression
 
 ## Data Preparation
-After importing the dataset, we separated the numeric and categorical variables in different data frames for easier cleaning and renamed the 'sex' variable for easier visualisation in the portion of exploratory data analysis. The dataset is then checked for balance, after anomalies are then removed for higher precion and accuracy.
+- Imported the dataset
+- Separated the numeric and categorical variables in different data frames
+- Renamed a variable, 'sex', for easier visualisation in EDA
+- Checked for balance, after anomalies are then removed for higher precion and accuracy
 
 ## Exploratory Data Analysis (EDA)
 In the EDA, we gathered insights from the single and multi-variate analysis of the numeric variables, with the use of box plot, scatter plot, strip plot, histogram and correlation matrix. Whereas heatmaps are used for categorical variables. With these data-driven insights, we extracted the response variables to be used for our machine learning models.
@@ -46,11 +49,11 @@ To decide on the most suitable model for our dataset, we generated three models,
 - Soft Skills such as Design Thinking to utilise models efficiently and effectively
 
 ## References
-- https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files.
-- https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)#:~:text=Cardiovascular%20diseases%20(CVDs)%20are%20the,%2D%20and%20middle%2Dincome%20countries.
-- https://www.myheart.org.sg/health/heart-disease-statistics/#:~:text=Singapore%20Statistics,to%20heart%20diseases%20or%20stroke.
-- https://scholar.smu.edu/cgi/viewcontent.cgi?article=1041&context=datasciencereview.
-- https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=Random%20forest%20is%20a%20Supervised,average%20in%20case%20of%20regression.
+- https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files
+- https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)#:~:text=Cardiovascular%20diseases%20(CVDs)%20are%20the,%2D%20and%20middle%2Dincome%20countries
+- https://www.myheart.org.sg/health/heart-disease-statistics/#:~:text=Singapore%20Statistics,to%20heart%20diseases%20or%20stroke
+- https://scholar.smu.edu/cgi/viewcontent.cgi?article=1041&context=datasciencereview
+- https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/#:~:text=Random%20forest%20is%20a%20Supervised,average%20in%20case%20of%20regression
 
 
 ## *Special Thanks to our Teaching Assistant Sun Chenyu for your guidance throughout the project and Course Instructors Associate Professor Bo An and Dr Sourav Sen Gupta for teaching the relevant content.*
