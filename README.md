@@ -37,8 +37,8 @@ Acknowledging the severity of heart disease and the benefits of its early detect
 
 ## Exploratory Data Analysis (EDA)
 - Analysed single and multi-variate statistics of numeric variables through the use of box plots, scatter plots, strip plots, histograms, pairplot, correlation table and heatmap
-- Heatmaps used for categorical variables
-- Extracted the relevant predictor variables from data-driven insights
+- Heatmaps were used for categorical variables
+- Extracted the relevant predictor variables from data-driven insights using our recommended threshold
 
 ## Machine Learning Models
 - 3 models used, namely Decision Tree, Random Forest and Logistic Regression
