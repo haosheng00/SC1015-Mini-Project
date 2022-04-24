@@ -5,7 +5,7 @@ SC1015 Introduction to Data Science and Artificial Intelligence Mini-Project
 Acknowledging the severity of heart disease and the benefits of its early detection, our group aims to predict the possibility of individuals contracting heart disease with the use of a [dataset retrieved from IEEE](https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive#files). With the best machine learning model selected, our 'Robo-Medivisor' will analyse this possibility with predictor variables taken from the patients' medical check-ups and recommend them for more comprehensive check-ups. It will also alert and send doctors the patients' health report if required.
 
 ## Contributors
-- Koh Hao Sheng ([@haosheng00](https://github.com/haosheng00)) - Data Preparation, Exploratory Data Analysis (EDA), Machine Learning Models (Decision Tree and Random Forest), Solution, Slides
+- Koh Hao Sheng ([@haosheng00](https://github.com/haosheng00)) - Data Preparation, Exploratory Data Analysis (EDA), Machine Learning Models (Decision Tree and Random Forest), Solution, Slides, GitHub README
 - Lee An Ni ([@3Clovers](https://github.com/3Clovers)) - Data Preparation, Exploratory Data Analysis (EDA), Machine Learning Models (Logistic Regression), Solution, Slides, GitHub README
 - Sim Guanyu ([@cooliomoolio1108](https://github.com/cooliomoolio1108)) - Motivation, Data Visualization, Evaluation, Solution, Slides
 
@@ -30,8 +30,7 @@ Acknowledging the severity of heart disease and the benefits of its early detect
 - Logistic Regression
 
 ## Data Preparation
-- Imported the dataset
-- Separated numeric and categorical variables in different data frames
+- Imported the dataset, Separated numeric and categorical variables in different data frames
 - Renamed a variable for easier visualisation in EDA
 - Removed anomalies for higher precision and accuracy
 - Ensured dataset is balanced
@@ -44,11 +43,13 @@ Acknowledging the severity of heart disease and the benefits of its early detect
 ## Machine Learning Models
 - 3 models used, namely Decision Tree, Random Forest and Logistic Regression
 - Adjusted 2 major hyper-parameters for Random Forest, depth and estimators, to raise the classifiction accuracy of the model
-- A comparison was made between the extracted dataframe and a cleaned full dataset with back elimination to evaluate the fit of the models. The extracted dataframe seems to be a better fit, with also higher accuracy.
+- Logistic Regression was done twice in order to make a comparison between extracted dataframe and a dataframe with all predictor variables with back elimination
 
 ## Conclusion
-- Random Forest returns the highest accuracy among the 3 models used 
-- 
+- Random Forest with adjusted hyper-parameters returns the highest accuracy (93%) among the 3 models used, hence it is the best model
+- Extracted dataframe from data-driven insights is a better model fit (higher R-squared value) compared to dataframe with all predictor variables for Logistic Regression
+- Identified signficant predictor variables using p-value from Logistic Regression
+- Correlation between predictor variables can be low among each other but can be significant to the presence of heart disease
 
 ## Learning Points
 - GitHub Collaboration
